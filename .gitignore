@@ -1,0 +1,7 @@
+build/
+*.dSYM/
+a.out
+*.exe
+__pycache__/
+.DS_Store
+*.tmp
