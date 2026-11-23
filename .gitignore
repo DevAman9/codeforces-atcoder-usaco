@@ -1,7 +1,19 @@
 build/
+cmake-build-*/
+.idea/
 *.dSYM/
 a.out
 *.exe
 __pycache__/
 .DS_Store
 *.tmp
+# Compiled binaries next to .cpp files
+cses/*
+!cses/*.cpp
+atcoder/*
+!atcoder/*.cpp
+codeforces/*
+!codeforces/*.cpp
+usaco/*
+!usaco/*.cpp
+
